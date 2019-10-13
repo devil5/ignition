@@ -1,7 +1,7 @@
 package au.com.fox.math;
 
 public class Math {
-    public int fabonacci(int position) {
+    public int fibonacci(int position) {
 
         // If someone gets adventurous
         if (position <= 0) {
@@ -9,6 +9,6 @@ public class Math {
         }
 
         // Regular cases >= 1
-        return (position <= 2) ? 1 : fabonacci(position - 1) + fabonacci(position - 2);
+        return (position <= 2) ? 1 : fibonacci(position - 1) + fibonacci(position - 2);
     }
 }

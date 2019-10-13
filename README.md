@@ -25,4 +25,4 @@ mvn test
 
 ### Dependencies
 * Java
-* Linting done by
+* Linting done by Google Java Format Plugin for IntelliJ IDEA & Plugin (https://plugins.jetbrains.com/plugin/8527-google-java-format)
