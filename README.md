@@ -22,7 +22,4 @@ mvn test
 ## Acknowledgments
 * [PurpleBooth](https://gist.github.com/PurpleBooth) for her awesome template
 * Life - for giving me lemons so I may have lemonade whenever I want
-
-### Dependencies
-* Java
 * Linting done by Google Java Format Plugin for IntelliJ IDEA & Plugin (https://plugins.jetbrains.com/plugin/8527-google-java-format)
